@@ -1,4 +1,4 @@
-##IDE: Eclipse Jee Neno
+##IDE: Eclipse Jee Neon
 
 ##JDK:jdk1.8.0_91
 
